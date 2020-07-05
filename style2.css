@@ -25,3 +25,9 @@ body {
     background-color: black;
     color: blue;
 }
+
+.contact-info {
+    font-family: 'Hind Siliguri', sans-serif;
+    color: blue;
+    font-size: 18px;
+}
