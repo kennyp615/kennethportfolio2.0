@@ -4,12 +4,8 @@ body {
     font-family: monospace;
 }
 
-.navbar {
-    text-align: center;
-}
-
 .container {
-    color: antiquewhite;
-    font-size: 25px;
+    color: royalblue;
+    font-size: 20px;
     text-align: left;
 }
