@@ -31,3 +31,9 @@ body {
     color: blue;
     font-size: 18px;
 }
+
+.box-two {
+    background-color: grey;
+    font-family: 'Arimo', sans-serif;
+    color: whitesmoke;
+}
